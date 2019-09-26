@@ -1,3 +1,3 @@
 # Themepark Database
-  - Developed Theme Park Database with a group partners using MySQL
+  - Developed themepark database with group partners using MySQL for backend
   - Frontend implemented with HTML and CSS, and using PHP to connect to themepark database
